@@ -17,7 +17,7 @@ Halo! 👋
 
 ## 🛠 Cara Pakai
 
-![Pomodoro in action](usage.gif)
+![Pomodoro in action](https://raw.githubusercontent.com/alirfanyasin/Pomodoro-for-Developer-vscode-extension/main/media/usage.gif)
 
 Setelah kamu install extension ini:
 
@@ -32,5 +32,5 @@ Setelah kamu install extension ini:
 
 ## 📸 Screenshot
 
-![Pomodoro Status Bar](https://user-images.githubusercontent.com/your-username/pomodoro-statusbar.png)  
+![Pomodoro in action](https://raw.githubusercontent.com/alirfanyasin/Pomodoro-for-Developer-vscode-extension/main/media/bar-start.png)
 _Timer muncul di bawah kiri VS Code_
