@@ -32,5 +32,5 @@ Setelah kamu install extension ini:
 
 ## 📸 Screenshot
 
-![Pomodoro in action](https://raw.githubusercontent.com/alirfanyasin/Pomodoro-for-Developer-vscode-extension/main/media/bar-start.png)
+![Pomodoro in action](https://raw.githubusercontent.com/alirfanyasin/Pomodoro-for-Developer-vscode-extension/main/media/bar-start.png) <br>
 _Timer muncul di bawah kiri VS Code_
