@@ -1,7 +1,7 @@
-# 🍅 Pomodoro Timer for VS Code
+# 🍅 Pomodoro Timer for Developer
 
 Halo! 👋  
-**Pomodoro Timer for VS Code** membantumu tetap fokus dan produktif saat ngoding dengan menggunakan teknik manajemen waktu **Pomodoro**. Teknik ini membagi waktu kerja menjadi sesi fokus dan istirahat agar kamu nggak cepat lelah dan tetap semangat!
+**Pomodoro Timer for Developer** membantumu tetap fokus dan produktif saat ngoding dengan menggunakan teknik manajemen waktu **Pomodoro**. Teknik ini membagi waktu kerja menjadi sesi fokus dan istirahat agar kamu nggak cepat lelah dan tetap semangat!
 
 ---
 
@@ -9,7 +9,7 @@ Halo! 👋
 
 - ✅ Mulai sesi kerja selama **25 menit**
 - ✅ Dapatkan **5 menit waktu istirahat** setelahnya
-- ✅ Timer tampil di **status bar** bawah VS Code
+- ✅ Timer tampil di **status bar** kiri bawah VS Code
 - ✅ Notifikasi dan suara saat waktunya istirahat 🎵
 - ✅ Tampilan istirahat yang santai dan menenangkan 🌿
 
@@ -34,5 +34,3 @@ Setelah kamu install extension ini:
 
 ![Pomodoro Status Bar](https://user-images.githubusercontent.com/your-username/pomodoro-statusbar.png)  
 _Timer muncul di bawah kiri VS Code_
-
-![Break Panel](https://user-images.githubusercontent)
